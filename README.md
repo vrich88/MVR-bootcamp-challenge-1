@@ -21,6 +21,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
+```md
+    ![Alt text](./develop/assets/images/bcwk1-Screenshot1-site1.png)
+```
 
 ## Credits
 
