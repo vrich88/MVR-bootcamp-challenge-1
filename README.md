@@ -1,29 +1,15 @@
-#
-## Description
+# MVR-bootcamp-challenge-1 Horiseon webpage
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Webpage Accessibility - Horiseon
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This repository is to clean up and consolidate code for the purpose of improving optimization and accessibility standards.  This project was built to meet the needs of the marketing agency client, Horiseon, request of leaving their website code in a better state for future operations.  This solves the issue of updating outdated code in favor of new and semantic elemnts of HTML with CSS selectors favored ion search engine optimization.  This repositorty now more optimized and has corrected non-functional links.
 
 ## Installation
 
 
 ## Usage
 
-```md
-    ![Alt text](./develop/assets/images/bcwk1-Screenshot1-site1.png)
-```
+![Website Screenshot1](./Develop/assets/images/bcwk1-screenshot.png)
 
 ## Credits
 
