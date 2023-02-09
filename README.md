@@ -8,7 +8,7 @@ This repository is to clean up and consolidate code for the purpose of improving
 
 Horiseon webpage; to use clink on links in top navigation bar to be redireced to applicable information
 
-[Deployed application(https://vrich88.github.io/MVR-bootcamp-challenge-1/)
+[Deployed application](https://vrich88.github.io/MVR-bootcamp-challenge-1/)
 
 ![Website Screenshot1](./Develop/assets/images/bcwk1-screenshot.png)
 ![Website Screenshot1](./Develop/assets/images/bcwk1-screenshot2.png)
