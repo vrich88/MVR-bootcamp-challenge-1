@@ -10,8 +10,8 @@ Horiseon webpage; to use clink on links in top navigation bar to be redireced to
 
 [Deployed application](https://vrich88.github.io/MVR-bootcamp-challenge-1/)
 
-![Website Screenshot1](./Develop/assets/images/bcwk1-screenshot.png)
-![Website Screenshot1](./Develop/assets/images/bcwk1-screenshot2.png)
+![Website Screenshot1](./assets/images/bcwk1-screenshot.png)
+![Website Screenshot1](./assets/images/bcwk1-screenshot2.png)
 
 ## MIT License
 
